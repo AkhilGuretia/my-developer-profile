@@ -34,11 +34,11 @@ const Intro = () => {
 const SkillList = () => {
     return (
         <div className="skill-list">
-            <Skill name="HTML+CSS" color="#1D55E2" />
-            <Skill name="JavaScript" color="#E5C935" />
-            <Skill name="React" color="#5ECCF4" />
-            <Skill name="TypeScript" color="#B8D3A7" />
-            <Skill name="Git and GitHub" color="#DE452C" />
+            <Skill name="HTML+CSS 👶" color="#1D55E2" />
+            <Skill name="JavaScript 👍" color="#FFBF00" />
+            <Skill name="React 💪" color="#5ECCF4" />
+            <Skill name="TypeScript 💪" color="yellowgreen" />
+            <Skill name="Git and GitHub 👍" color="#DE452C" />
         </div>
     );
 };
